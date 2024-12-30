@@ -1,0 +1,311 @@
+<div style="width:720px;margin:auto;">
+<div style="width:720px;height:737px;float:left;">
+<div style="width:720px;height:737px;background-color:#d2dcf0;float:left;">
+<div style="width:150px;height:150px;float:left;margin-left:285px;margin-top:50px;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:150px;float:left;height:150px;border-radius:100%;" /></div>
+
+<div style="width:720px;float:left;opacity:1;">
+<div style="width:720px;float:left;">
+<div style="width:700px;float:left;margin:10px 10px;">
+<div style="font-family:'Times New Roman';font-size:50px;text-align:center;letter-spacing:.5px;margin:0px 10px;color:#6f96c1;line-height:50px;"><strong><em>Name</em></strong></div>
+
+<div style="font-family:calibri;font-size:17px;text-align:center;letter-spacing:.5px;margin:0px 10px;color:#979aab;line-height:17px;"><strong>@username</strong></div>
+</div>
+</div>
+</div>
+
+<div style="width:300px;margin-left:50px;">
+<div style="width:300px;height:400px;float:left;">
+<div style="width:300px;height:400px;overflow:hidden;">
+<div style="width:320px;height:400px;float:left;overflow:auto;">
+<div style="width:300px;float:left;opacity:1;">
+<div style="width:300px;float:left;">
+<div style="width:300px;float:left;margin:0px;">
+<div style="width:282px;float:left;margin:5px 10px;">
+<div style="font-family:Arial;font-size:25px;text-align:center;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:26px;text-transform:uppercase;"><strong>about me</strong></div>
+
+<div style="font-family:'Times New Roman';font-size:12px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+
+<div style="font-family:'Times New Roman';font-size:12px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</div>
+</div>
+</div>
+</div>
+
+<div style="width:300px;float:left;margin:25px 0px 0px;">
+<div style="width:300px;float:left;margin:0px;">
+<div style="width:282px;float:left;margin:5px 10px;">
+<div style="font-family:Arial;font-size:25px;text-align:center;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:26px;text-transform:uppercase;"><strong>out of character</strong></div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Name</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">A name you preferred to be referred to as instead of your character&#39;s name</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Pronouns</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">What gender pronouns would you rather be called with?</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Age</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Probably not your definite age, but whether you&#39;re of age or not</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Timezone</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">GMT +- ?</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Preferred POV</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">1st person or 3rd person?</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Writing Style</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Script, Para, Novella, Prose</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Genres</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Fluff, Smut, Angst, Drama, Action, Fantasy, Supernatural</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="width:300px;float:left;margin:25px 0px 0px;">
+<div style="width:300px;float:left;margin:0px;">
+<div style="width:282px;float:left;margin:5px 10px;">
+<div style="font-family:Arial;font-size:25px;text-align:center;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:26px;text-transform:uppercase;"><strong>fun facts</strong></div>
+
+<ul style="color:#253340;font-family:'Times New Roman';font-size:12px;font-style:normal;font-weight:normal;letter-spacing:.5px;line-height:13px;margin:5px 0px 0px 15px;text-align:justify;padding:0px;">
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div style="width:300px;float:left;margin:25px 0px 0px;">
+<div style="width:300px;float:left;margin:0px;">
+<div style="width:282px;float:left;margin:5px 10px;">
+<div style="font-family:Arial;font-size:25px;text-align:center;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:26px;text-transform:uppercase;"><strong>my friends</strong></div>
+
+<div style="width:110px;height:110px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:100px;float:left;height:100px;border-radius:100%;" /></div>
+
+<div style="font-family:calibri;font-size:19px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:20px;"><span style="border:1px solid #253340;">&nbsp;<strong>Name</strong>&nbsp;</span></div>
+
+<div style="font-family:'Times New Roman';font-size:12px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+
+<div style="width:110px;height:110px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:100px;float:left;height:100px;border-radius:100%;" /></div>
+
+<div style="font-family:calibri;font-size:19px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:20px;"><span style="border:1px solid #253340;">&nbsp;<strong>Name</strong>&nbsp;</span></div>
+
+<div style="font-family:'Times New Roman';font-size:12px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+
+<div style="width:110px;height:110px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:100px;float:left;height:100px;border-radius:100%;" /></div>
+
+<div style="font-family:calibri;font-size:19px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:20px;"><span style="border:1px solid #253340;">&nbsp;<strong>Name</strong>&nbsp;</span></div>
+
+<div style="font-family:'Times New Roman';font-size:12px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="width:300px;margin-left:370px;">
+<div style="width:300px;height:400px;float:left;">
+<div style="width:300px;height:400px;overflow:hidden;">
+<div style="width:320px;height:400px;float:left;overflow:auto;">
+<div style="width:300px;float:left;opacity:1;">
+<div style="width:300px;float:left;">
+<div style="width:300px;float:left;margin:0px;">
+<div style="width:282px;float:left;margin:5px 10px;">
+<div style="font-family:Arial;font-size:25px;text-align:center;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:26px;text-transform:uppercase;"><strong>disclaimer</strong></div>
+
+<div style="font-family:'Times New Roman';font-size:12px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+
+<div style="font-family:'Times New Roman';font-size:12px;text-align:justify;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</div>
+</div>
+</div>
+</div>
+
+<div style="width:300px;float:left;margin:25px 0px 0px;">
+<div style="width:300px;float:left;margin:0px;">
+<div style="width:282px;float:left;margin:5px 10px;">
+<div style="font-family:Arial;font-size:25px;text-align:center;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:26px;text-transform:uppercase;"><strong>roleplay rules</strong></div>
+
+<ul style="color:#253340;font-family:'Times New Roman';font-size:12px;font-style:normal;font-weight:normal;letter-spacing:.5px;line-height:13px;margin:5px 0px 0px 15px;text-align:justify;padding:0px;">
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+	<li><span style="color:#253340;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div style="width:300px;float:left;margin:25px 0px 0px;">
+<div style="width:300px;float:left;margin:0px;">
+<div style="width:282px;float:left;margin:5px 10px;">
+<div style="font-family:Arial;font-size:25px;text-align:center;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:26px;text-transform:uppercase;"><strong>muse list</strong></div>
+
+<div style="width:97px;height:88px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:88px;float:left;height:88px;border-radius:100%;" /></div>
+
+<div style="width:97px;height:88px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:88px;float:left;height:88px;border-radius:100%;" /></div>
+
+<div style="width:88px;height:88px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:88px;float:left;height:88px;border-radius:100%;" /></div>
+
+<div style="width:282px;float:left;opacity:1;">
+<div style="width:94px;float:left;font-family:calibri;font-size:18px;text-align:center;letter-spacing:.5px;color:#253340;line-height:18px;">Name</div>
+
+<div style="width:94px;float:left;font-family:calibri;font-size:18px;text-align:center;letter-spacing:.5px;color:#253340;line-height:18px;">Name</div>
+
+<div style="width:94px;float:left;font-family:calibri;font-size:18px;text-align:center;letter-spacing:.5px;color:#253340;line-height:18px;">Name</div>
+</div>
+
+<div style="width:97px;height:88px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:88px;float:left;height:88px;border-radius:100%;" /></div>
+
+<div style="width:97px;height:88px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:88px;float:left;height:88px;border-radius:100%;" /></div>
+
+<div style="width:88px;height:88px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:88px;float:left;height:88px;border-radius:100%;" /></div>
+
+<div style="width:282px;float:left;opacity:1;">
+<div style="width:94px;float:left;font-family:calibri;font-size:18px;text-align:center;letter-spacing:.5px;color:#253340;line-height:18px;">Name</div>
+
+<div style="width:94px;float:left;font-family:calibri;font-size:18px;text-align:center;letter-spacing:.5px;color:#253340;line-height:18px;">Name</div>
+
+<div style="width:94px;float:left;font-family:calibri;font-size:18px;text-align:center;letter-spacing:.5px;color:#253340;line-height:18px;">Name</div>
+</div>
+
+<div style="width:97px;height:88px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:88px;float:left;height:88px;border-radius:100%;" /></div>
+
+<div style="width:97px;height:88px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:88px;float:left;height:88px;border-radius:100%;" /></div>
+
+<div style="width:88px;height:88px;float:left;"><img alt="" src="https://i.imgur.com/38zUfPz.jpg" style="width:88px;float:left;height:88px;border-radius:100%;" /></div>
+
+<div style="width:282px;float:left;opacity:1;">
+<div style="width:94px;float:left;font-family:calibri;font-size:18px;text-align:center;letter-spacing:.5px;color:#253340;line-height:18px;">Name</div>
+
+<div style="width:94px;float:left;font-family:calibri;font-size:18px;text-align:center;letter-spacing:.5px;color:#253340;line-height:18px;">Name</div>
+
+<div style="width:94px;float:left;font-family:calibri;font-size:18px;text-align:center;letter-spacing:.5px;color:#253340;line-height:18px;">Name</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="width:300px;float:left;margin:25px 0px 0px;">
+<div style="width:300px;float:left;margin:0px;">
+<div style="width:282px;float:left;margin:5px 10px;">
+<div style="font-family:Arial;font-size:25px;text-align:center;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:26px;text-transform:uppercase;"><strong>roleplays</strong></div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+
+<div style="width:282px;float:left;opacity:1;line-height:15px;text-align:center;">
+<div style="width:139px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;border:1px solid #253340;"><strong>Roleplay</strong></div>
+
+<div style="width:141px;float:left;font-family:'Times New Roman';font-size:12px;letter-spacing:.5px;margin:5px 0px;color:#253340;line-height:13px;">Muse(s)</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="width:720px;float:left;opacity:1;">
+<div style="width:720px;background-color:#6f96c1;float:left;">
+<div style="width:700px;float:left;margin:35px 10px;">
+<div style="width:700px;float:left;opacity:1;">
+<div style="width:175px;float:left;font-family:'Times New Roman';font-size:18px;text-align:center;letter-spacing:.5px;line-height:18px;text-transform:uppercase;"><span style="color:#d2dcf0;">link</span></div>
+
+<div style="width:175px;float:left;font-family:'Times New Roman';font-size:18px;text-align:center;letter-spacing:.5px;line-height:18px;text-transform:uppercase;"><span style="color:#d2dcf0;">link</span></div>
+
+<div style="width:175px;float:left;font-family:'Times New Roman';font-size:18px;text-align:center;letter-spacing:.5px;line-height:18px;text-transform:uppercase;"><span style="color:#d2dcf0;">link</span></div>
+
+<div style="width:175px;float:left;font-family:'Times New Roman';font-size:18px;text-align:center;letter-spacing:.5px;line-height:18px;text-transform:uppercase;"><span style="color:#d2dcf0;">link</span></div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="width:720px;float:left;opacity:1;">
+<div style="width:720px;background-color:#253340;float:left;">
+<div style="width:700px;float:left;margin:10px 10px;">
+<div style="font-family:'Times New Roman';font-size:15px;text-align:center;letter-spacing:.5px;margin:0px 10px;color:#d2dcf0;line-height:15px;text-transform:uppercase;"><a href="https://www.roleplayrepublic.com/roleplay/view_desc/28422"><span style="color:#d2dcf0;">❆ Clear Snow Productions ❆</span></a></div>
+</div>
+</div>
+</div>
+</div>
